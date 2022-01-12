@@ -1,6 +1,6 @@
 ## Dark Mode Page
 Página simples para ativar e desativar o Dark Mode.
 
-![](http://github.com/yasminhernandes/darkmode-simples/../../../../imgs/screenshot-light-mode.png)
-![](http://github.com/yasminhernandes/darkmode-simples/../../../../imgs/screenshot-dark-mode.png)
+![](https://github.com/YasminHernandes/darkmode-simples/blob/master/imgs/screenshot-light-mode.png)
+![](https://github.com/YasminHernandes/darkmode-simples/blob/master/imgs/screenshot-dark-mode.png)
 
